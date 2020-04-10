@@ -1,0 +1,21 @@
+ns工资小于m
+ns月薪小于m
+工资小于m ns
+月薪小于m ns 
+在ns工资小于m
+在ns工资小于m
+在ns工资小于m
+ns工资小于mk
+ns月薪小于mk
+工资小于mk ns
+月薪小于mk ns
+在ns工资小于mk
+在ns工资小于mk
+在ns工资小于mk
+ns工资小于mw
+ns月薪小于mw
+工资小于mw ns
+月薪小于mw ns
+在ns工资小于mw
+在ns工资小于mw
+在ns工资小于mw

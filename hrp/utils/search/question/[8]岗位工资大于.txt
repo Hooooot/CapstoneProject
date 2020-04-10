@@ -1,0 +1,12 @@
+jb工资大于m
+jb月薪大于m
+工资大于m jb
+月薪大于m jb
+jb工资大于mk
+jb月薪大于mk
+工资大于mk jb
+月薪大于mk jb
+jb工资大于mw
+jb月薪大于mw
+工资大于mw jb
+月薪大于mw jb

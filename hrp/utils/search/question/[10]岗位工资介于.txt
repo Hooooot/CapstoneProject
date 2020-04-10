@@ -1,0 +1,24 @@
+jb工资大于m小于m
+jb月薪大于m小于m
+工资大于m小于m jb
+月薪大于m小于m jb
+jb工资m到m
+jb月薪m到m
+工资m到mjb
+月薪m到mjb
+jb工资大于mk小于mk
+jb月薪大于mk小于mk
+工资大于mk小于mkjb
+月薪大于mk小于mkjb
+jb工资mk到mk
+jb月薪mk到mk
+工资mk到mkjb
+月薪mk到mkjb
+jb工资大于mw小于mw
+jb月薪大于mw小于mw
+工资大于mw小于mwjb
+月薪大于mw小于mwjb
+jb工资mw到mw
+jb月薪mw到mw
+工资mw到mwjb
+月薪mw到mwjb
